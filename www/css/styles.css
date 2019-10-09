@@ -1,7 +1,19 @@
+.heading{
+    font-size: 10vw;
+}
+.introduction{
+    font-size: 3vw;
+}
+
 a:link,
 a:visited,
 a:hover {
     color: #F25C05;
+}
+
+.github-link{
+    width: 4vw;
+    height: 4vw
 }
 
 .footer {
@@ -11,12 +23,7 @@ a:hover {
     border-top: solid 1px #EEE;
     color: #4F6A92;
 }
-.heading{
-    font-size: 108px;
-}
-.introduction{
-    font-size: 48px;
-}
+
 .level {
     opacity: 1;
     height: 32px;
