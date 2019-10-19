@@ -156,7 +156,7 @@
 	            return _react2.default.createElement(
 	                'div',
 	                null,
-	                _react2.default.createElement(_Header2.default, { text: 'yo' }),
+	                _react2.default.createElement(_Header2.default, null),
 	                _react2.default.createElement(
 	                    'div',
 	                    { className: 'slds-grid slds-p-top--small slds-grid--align-center' },
@@ -22565,15 +22565,6 @@
 	                                "Big Ol' Brews"
 	                            )
 	                        )
-	                    ),
-	                    _react2.default.createElement(
-	                        "div",
-	                        { className: "slds-col slds-no-flex" },
-	                        _react2.default.createElement(
-	                            "a",
-	                            { href: "https://github.com/Robert-Vaccaro/Big-Ol-Brews" },
-	                            _react2.default.createElement("img", { src: "pics/GitHub-Mark-Light-32px.png" })
-	                        )
 	                    )
 	                ),
 	                _react2.default.createElement(
@@ -22642,7 +22633,6 @@
 	}(_react2.default.Component);
 	
 	;
-	
 	exports.default = Header;
 
 /***/ }),
@@ -22874,9 +22864,9 @@
 	                        "button",
 	                        { className: "slds-button slds-button--neutral" + (this.props.page <= 1 ? " slds-hide" : ""), onClick: this.props.onPrevious },
 	                        _react2.default.createElement(
-	                            "svg",
-	                            { className: "slds-button__icon" },
-	                            _react2.default.createElement("use", { xlinkHref: "/assets/icons/utility-sprite/svg/symbols.svg#chevronleft" })
+	                            "p",
+	                            null,
+	                            "Last Page"
 	                        )
 	                    )
 	                ),
@@ -22900,9 +22890,9 @@
 	                        "button",
 	                        { className: "slds-button slds-button--neutral" + (this.props.page >= pages ? " slds-hide" : ""), onClick: this.props.onNext },
 	                        _react2.default.createElement(
-	                            "svg",
-	                            { className: "slds-button__icon" },
-	                            _react2.default.createElement("use", { xlinkHref: "/assets/icons/utility-sprite/svg/symbols.svg#chevronright" })
+	                            "p",
+	                            null,
+	                            "Next Page"
 	                        )
 	                    )
 	                )

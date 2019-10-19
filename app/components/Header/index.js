@@ -10,11 +10,6 @@ class Header extends React.Component {
                     <div className="slds-col">
                         <h1 className='heading'><u>Big Ol' Brews</u></h1>
                     </div>
-                    <div className="slds-col slds-no-flex">
-                        <a href="https://github.com/Robert-Vaccaro/Big-Ol-Brews">
-                            <img src="pics/GitHub-Mark-Light-32px.png"/>
-                        </a>
-                    </div>
                 </div>
                     <div className="introduction">
                         <h2>The only database you need to find your the beer of your dreams! 
@@ -36,5 +31,4 @@ class Header extends React.Component {
         );
     }
 };
-
 export default Header;

@@ -1,8 +1,8 @@
+
+
 .heading{
-    font-size: 10vw;
-}
-.introduction{
-    font-size: 3vw;
+    font-size: 8vw;
+    text-align: center
 }
 
 a:link,
@@ -54,11 +54,14 @@ input[type="search"]:focus {
     border-color: #CFD7E6;
     box-shadow: 0 0 4px #F25C05 !important;
 }
-
+.introduction{
+    font-size: 3vw;
+}
 .slider {
     width: 100%;
-    max-width: 500px;
+    max-width: 400px;
     height: 40px;
+    padding-left: 10px;
     margin: 4px 0;
 }
 
@@ -169,3 +172,4 @@ input[type="search"]:focus {
 .slds-card img {
     margin: 4px;
 }
+
