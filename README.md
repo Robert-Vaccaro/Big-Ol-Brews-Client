@@ -1,5 +1,5 @@
 
-# Big Ol' Brews Client#
+# Big Ol' Brews Client #
 
 Here is the [live demo](https://lit-spire-67447.herokuapp.com/)!
 
