@@ -29,5 +29,4 @@ This application searches through a complete database of all the belgian beers i
 
 * React.js
 * Node.js/Express
-* Lightning Design System
 * Postgres SQL
