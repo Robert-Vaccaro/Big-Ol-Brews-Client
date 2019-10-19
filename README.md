@@ -3,7 +3,7 @@
 
 Here is the [live demo](https://lit-spire-67447.herokuapp.com/)!
 
-Here is the server [README.md file](https://github.com/Robert-Vaccaro/Big-Ol-Brews/tree/master/server)
+Here is the server [README.md file](https://github.com/Robert-Vaccaro/Big-Ol-Brews-Server/blob/master/README.md)
 
 
 # Screenshots #
