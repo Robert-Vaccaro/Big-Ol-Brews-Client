@@ -11,12 +11,12 @@ Here is the server [README.md file](https://github.com/Robert-Vaccaro/Big-Ol-Bre
 
 #### Landing Page: ####
 
-![alt text](https://github.com/Robert-Vaccaro/Big-Ol-Brews/blob/master/landing-screen.png)
+![alt text](https://github.com/Robert-Vaccaro/Big-Ol-Brews-Client/blob/master/landing-screen.png)
 
 
 #### Beer Database: ####
 
-![alt text](https://github.com/Robert-Vaccaro/Big-Ol-Brews/blob/master/main-screen.png)
+![alt text](https://github.com/Robert-Vaccaro/Big-Ol-Brews-Client/blob/master/main-screen.png)
 
 
 #### Mobile View: ####
