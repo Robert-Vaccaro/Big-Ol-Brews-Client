@@ -25,7 +25,7 @@ Here is the server [README.md file](https://github.com/Robert-Vaccaro/Big-Ol-Bre
 
 # Summary #
 
-This application searches through a complete database of all the belgian beers in the world. You will be able look up any beer by the specific type of beer, by specific beer name, and by the brewery that sells it. You will also be able filter the database by alcholol content percentage by using the slide bar at the top of the page.
+This application searches through a complete database of all the belgian beers in the world. You will be able look up any beer by the specific type of beer, by specific beer name, and by the brewery that sells it. You will also be able filter the database by alcohol content percentage by using the slide bar at the top of the page.
 
 
 
