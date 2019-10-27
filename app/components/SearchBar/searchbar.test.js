@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import SearchBar from './index';
+import SearchBar from './SearchBar';
 
 it('renders without crashing', () => {
   const div = document.createElement('div');

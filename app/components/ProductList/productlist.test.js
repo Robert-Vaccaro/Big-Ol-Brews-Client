@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ProductList from './index';
+import ProductList from './ProductList';
 
 it('renders without crashing', () => {
   const div = document.createElement('div');

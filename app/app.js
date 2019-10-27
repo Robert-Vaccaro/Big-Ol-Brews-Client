@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Header from './components/Header';
-import ProductList from './components/ProductList';
-import Paginator from './components/Paginator';
-import SearchBar from './components/SearchBar';
-import RangeSlider from './components/RangeSlider';
+import Header from './components/Header/Header';
+import ProductList from './components/ProductList/ProductList.js';
+import Paginator from './components/Paginator/Paginator.js';
+import SearchBar from './components/SearchBar/SearchBar.js';
+import RangeSlider from './components/RangeSlider/RangeSlider.js';
 
-import * as productService from './services/product-service';
+import * as productService from './services/product-service/product-service.js';
 
 class App extends React.Component {
 
